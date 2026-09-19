@@ -1,0 +1,16 @@
+{
+  "short_name": "Agrova",
+  "name": "Agrova – AI Plant Disease Detection & Farming Assistant",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f5f0e8",
+  "theme_color": "#1a3a1f",
+  "display": "standalone",
+  "orientation": "portrait"
+}
